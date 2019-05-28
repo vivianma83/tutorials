@@ -1,0 +1,29 @@
+{
+  "license": "OLSA",
+  "engines": {
+    "node": ">=4.1.0"
+  },
+  "description": "node module generate tutorial.",
+  "contributors": [
+    {
+      "name": "Vivian Ma",
+      "email": "vivianma83@gmail.com"
+    }
+  ],
+  "author": {
+    "name": "Vivian"
+  },
+  "repository": {
+    "url": "https://github.com/vivianma83/tutorialsJs.git",
+    "type": "git"
+  },
+  "version": "0.0.1",
+  "env": {},
+  "main": "index.js",
+  "dependencies": {
+    "driver.js": "0.7.1",
+    "fuse.js": "3.3.0",
+    "jquery": "^3.3.1"
+  },
+  "name": "tutorialsJs"
+}
